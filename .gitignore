@@ -1,0 +1,13 @@
+/target
+**/target
+/uefi.img
+/bios.img
+/disk.img
+*.log
+*.ppm
+
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
